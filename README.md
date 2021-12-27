@@ -1,5 +1,5 @@
 # Hangman With Python
-Everybody knows the game Hangman. Well, here is my attempt at recreating it! In this version, no matter how long or short the word is, the player has 7 lives
+Everybody knows the game Hangman. Well, here is my attempt at recreating it! In this version, no matter how long or short the word is, the player has 7 lives. <br>
 When you guess a letter incorrectly 7 times, the game ends
 
 
