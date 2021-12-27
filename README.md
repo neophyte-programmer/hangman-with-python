@@ -8,4 +8,4 @@ When you guess a letter incorrectly 7 times, the game ends
 - [Word List](https://www.randomlists.com/data/words.json)
 
 ## How It Looks
-
+![](https://github.com/neophyte-programmer/hangman-with-python/blob/main/hangman.png?raw=true)
